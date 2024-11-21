@@ -24,6 +24,7 @@ Artificial intelligence enthusiast, I'm in the **first year** of Bachelor IT deg
   - Responsive Design
   - FlexBox & Grid </br>
 * VS Code (IDE) </br>
+* VMWare (Hypervisor) </br>
 * Teamwork </br>
 * Problem Solving </br>
 * And [others](www.linkedin.com/in/axel-achart)
