@@ -27,7 +27,7 @@ Artificial intelligence enthusiast, I'm in the **first year** of Bachelor IT deg
 * VMWare (Hypervisor) </br>
 * Teamwork </br>
 * Problem Solving </br>
-* And [others](www.linkedin.com/in/axel-achart)
+* And [others](https://www.linkedin.com/in/axel-achart/)
 
 </br>
 
