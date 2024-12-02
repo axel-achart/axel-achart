@@ -6,7 +6,7 @@
 
 </br>
 
-[LinkedIn](https://www.linkedin.com/in/axel-achart/) • [Curriculum Vitae](https://www.canva.com/design/DAGXGFoKflM/OlS1VRA5Ip6h7ASfPSQsPQ/edit?utm_content=DAGXGFoKflM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[LinkedIn](https://www.linkedin.com/in/axel-achart/) • [Curriculum Vitae](https://www.canva.com/design/DAGXGFoKflM/OlS1VRA5Ip6h7ASfPSQsPQ/edit?utm_content=DAGXGFoKflM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) • (Portfolio)[https://axel-achart.github.io/portfolio/]
 
 </br>
 
