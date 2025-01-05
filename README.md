@@ -19,6 +19,7 @@ Artificial intelligence enthusiast, I'm in the **first year** of Bachelor IT deg
 
 ## My skills 📈
 
+* Python </br>
 * HTML5 </br>
 * CSS3
   - Responsive Design
