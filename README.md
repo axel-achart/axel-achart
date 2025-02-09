@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="Bannière de présentation" src="https://github.com/axel-achart/axel-achart/blob/main/Banni%C3%A8re-Axel.png"/>
+  <img align="center" alt="Bannière de présentation" src="https://github.com/axel-achart/axel-achart/blob/main/Bannière Officiel.png"/>
 </p>
 
 # Hey ! I'm Axel 👨🏻‍💻
