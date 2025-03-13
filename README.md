@@ -22,8 +22,8 @@
 
 ## 🚀 Tech & Skills  
 
-🔹 **Languages**: Python, SQL, HTML, CSS
-🔹 **Tools & Frameworks**: MySQL, VS Code, Power BI (+Power Query)
+🔹 **Languages**: Python, SQL, HTML, CSS </br>
+🔹 **Tools & Frameworks**: MySQL, VS Code, Power BI (+Power Query)</br>
 🔹 **Other**: GitHub, Git Bash
 
 ---
