@@ -2,7 +2,7 @@
   <img align="center" alt="Bannière de présentation" src="https://github.com/axel-achart/axel-achart/blob/main/Bannière Officiel.png"/>
 </p>
 
-# Hey there! I'm Axel 👨🏻‍💻  
+# Hey there ! I'm Axel 👨🏻‍💻  
 
 </br>
 
@@ -22,9 +22,9 @@
 
 ## 🚀 Tech & Skills  
 
-🔹 **Languages**: Python, SQL, HTML, CSS </br>
-🔹 **Tools & Frameworks**: MySQL, VS Code, Power BI (+Power Query), Trello</br>
-🔹 **Other**: GitHub, Git Bash
+🔹 **Languages** : Python, SQL, HTML, CSS </br>
+🔹 **Tools & Frameworks** : MySQL, VS Code, Power BI (+Power Query), Trello</br>
+🔹 **Other** : GitHub, Git Bash
 
 ---
 
