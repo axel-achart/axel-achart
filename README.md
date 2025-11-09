@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="center" alt="Presentation Banner" src="https://github.com/axel-achart/axel-achart/blob/main/Bannière Officiel.png"/>
-</p>
-
 # Hey there! I'm Axel 👨🏻‍💻
 
 </br>
