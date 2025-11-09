@@ -1,8 +1,8 @@
 <p align="center">
-  <img align="center" alt="Bannière de présentation" src="https://github.com/axel-achart/axel-achart/blob/main/Bannière Officiel.png"/>
+  <img align="center" alt="Presentation Banner" src="https://github.com/axel-achart/axel-achart/blob/main/Bannière Officiel.png"/>
 </p>
 
-# Hey there ! I'm Axel 👨🏻‍💻  
+# Hey there! I'm Axel 👨🏻‍💻
 
 </br>
 
@@ -12,7 +12,7 @@
 
 ---
 
-🎯 **Aspiring Data Analyst**  
+🎯 **Aspiring Data Analyst and currently an apprentice "Assistant Data-CRM Analyst" at Crédit Agricole Alpes Provence France**  
 📍 Based in **France** | 🏫 Studying at *La Plateforme_*, a leading tech school in the South of France.  
 
 💡 Passionate about **Data Science and AI**  
@@ -20,11 +20,11 @@
 
 ---
 
-## 🚀 Tech & Skills  
+## 🚀 Tech & Skills
 
-🔹 **Languages** : Python, SQL, HTML, CSS </br>
-🔹 **Tools & Frameworks** : MySQL, VS Code, Power BI (+Power Query), Trello</br>
-🔹 **Other** : GitHub, Git Bash
+🔹 **Languages**: Python, SQL, HTML, CSS </br>
+🔹 **Tools & Frameworks**: MySQL, VS Code, Power BI (+Power Query), Trello</br>
+🔹 **Other**: GitHub, Git Bash
 
 ---
 
