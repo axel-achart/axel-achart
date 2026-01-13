@@ -18,10 +18,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=axel-achart&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axel-achart&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
+N/A
 
 ---
 
