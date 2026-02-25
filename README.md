@@ -18,7 +18,7 @@
 
 ## 📊 GitHub Stats  
 
-N/A
+![GitHub Stats](https://streak-stats.demolab.com?user=axel-achart&theme=cobalt&hide_border=true)
 
 ---
 
