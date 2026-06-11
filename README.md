@@ -8,7 +8,7 @@
 
 ---
 
-🎯 **Aspiring Data Analyst and currently an apprentice "Assistant Data-CRM Analyst" at Crédit Agricole Alpes Provence France**  
+🎯 **Aspiring Data Analyst and currently an apprentice "Data-CRM Analyst" at Crédit Agricole Alpes Provence France**  
 📍 Based in **France** | 🏫 Studying at *La Plateforme_*, a leading tech school in the South of France.  
 
 💡 Passionate about **Data Science and AI**  
